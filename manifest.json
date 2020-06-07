@@ -1,0 +1,452 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.BaseButtonBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.BaseButtonBehaviour.html",
+          "hash": "vlAAHTSFvZpB/ecXw8V3mA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.MainCameraBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.MainCameraBehaviour.html",
+          "hash": "cvuO2apqgn8U0ovcKP8WzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.NavigationButtonBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.NavigationButtonBehaviour.html",
+          "hash": "6PhgRbM4fvj2K2bhv2v/Pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.RotationArrowBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.RotationArrowBehaviour.html",
+          "hash": "472XI/Qgr8n5Prg0Om2vsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.RotationDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.RotationDirection.html",
+          "hash": "ReRJGgE2sLhnScxuQipSEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.SceneSelectionNavigationButtonBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.SceneSelectionNavigationButtonBehaviour.html",
+          "hash": "mbv5clakOfNTzYTvsZeElQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.StepSelectionBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.StepSelectionBehaviour.html",
+          "hash": "zGDyrok6xiht5/NQPaT2mA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.StepSelectionButtonBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.StepSelectionButtonBehaviour.html",
+          "hash": "ccHIoN6+bbWKYA9wQtzlkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.TestCubeBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.TestCubeBehaviour.html",
+          "hash": "PnuDaUJ3Mc7Z/E3K/4VVrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.TurnTableBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.TurnTableBehaviour.html",
+          "hash": "Dtq++88J6XRyX1LsyyxI+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.VectorBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.VectorBehaviour.html",
+          "hash": "9H22mza49gkyPYvrKkhF3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Behaviours.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Behaviours.html",
+          "hash": "5bR7DMJ9rB2Is4RRxcyDWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.Angle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.Angle.html",
+          "hash": "IimT5eYyiNMq/+bAmmMLfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.EulerAngle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.EulerAngle.html",
+          "hash": "g45T8m2c9C900iN521/yjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.Point.html",
+          "hash": "7VJfFlMYv/2fUt+FF2R6uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.QRCodeScanner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.QRCodeScanner.html",
+          "hash": "CsLFLi1xOdFgJospJbLIaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.Scene.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.Scene.html",
+          "hash": "l4nUr/4016Rb8x8x0qts+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.SceneSelection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.SceneSelection.html",
+          "hash": "r8XvAnWS1nVMNppo7vHpCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.Step.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.Step.html",
+          "hash": "bm1lKsCpvpT+3r2pV7EvhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.Vector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.Vector.html",
+          "hash": "gF9zTvMmWf1yDuVmq+oXCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.VectorPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.VectorPosition.html",
+          "hash": "t/3Y9xc9R2PyLd4OV0VplQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.Visualizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.Visualizer.html",
+          "hash": "pBfFBSBLxgbwxVuReLxV2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.Vizualization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.Vizualization.html",
+          "hash": "UQpTEObzxxpiq2sFpxV/VQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Core.html",
+          "hash": "cOQYYbkW1/ZEE6mHxxkJ+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Services.ApplicationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Services.ApplicationService.html",
+          "hash": "k1l+SC7XzRhrOCT+8hyq0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Services.SceneService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Services.SceneService.html",
+          "hash": "xcqq6ehgHlRXm02+bj6Sjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Services.VisualizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Services.VisualizationService.html",
+          "hash": "S2hXt/mk4B3UHh8/CmgqtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Services.html",
+          "hash": "3Pnigbz6EgSrNVioYgWJQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Utilities.GameObjectColorHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Utilities.GameObjectColorHelper.html",
+          "hash": "2oxP0hOx9CdZ+FA76AZYTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Utilities.Guard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Utilities.Guard.html",
+          "hash": "rREcLu1flcGuNbQYI/kwaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Api/VrVektoren.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/VrVektoren.Utilities.html",
+          "hash": "3O5cfUFADnLGA1C450ODwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Api/toc.html",
+          "hash": "CMbT8oIblQ3dCvVFrrXPBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/intro.html",
+          "hash": "gYszlaAxOLukjfCunesvcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 31,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
