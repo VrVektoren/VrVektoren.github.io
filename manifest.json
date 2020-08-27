@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/VrVektoren.Core.Angle.html",
-          "hash": "h7fGHug7ZF7PdZcBp5lnAw=="
+          "hash": "9763gtipUycF8tqQaeVYew=="
         }
       },
       "is_incremental": false,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/VrVektoren.Core.QRCodeScanner.html",
-          "hash": "pwodlUQu3kgU34jV6e6R9Q=="
+          "hash": "n82odqcjNLBr4wyEFCFSwg=="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/VrVektoren.Core.Step.html",
-          "hash": "0C8Nuis9iftaV5biwQYGjQ=="
+          "hash": "jxphhUtIUa/j75gAd4pGpQ=="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/VrVektoren.Core.Vector.html",
-          "hash": "zI2kGLNEWGmIC8iVEDiutA=="
+          "hash": "Ua+u8Q92W0Wtlc1d4pDzjA=="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/VrVektoren.Services.SceneService.html",
-          "hash": "uKOXQoyBxb+fby/2HB+llg=="
+          "hash": "ZikdSLxuATnp1ecxVRdw0Q=="
         }
       },
       "is_incremental": false,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/VrVektoren.Utilities.Guard.html",
-          "hash": "5O5S4QkBfE2UBti2VaeCQQ=="
+          "hash": "vxtWkj2rF7z1WUxguzQdZQ=="
         }
       },
       "is_incremental": false,

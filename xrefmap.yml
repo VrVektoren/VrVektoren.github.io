@@ -900,13 +900,13 @@ references:
   commentId: T:VrVektoren.Core.Step
   fullName: VrVektoren.Core.Step
   nameWithType: Step
-- uid: VrVektoren.Core.Step.#ctor(System.Tuple{VrVektoren.Core.Vector,VrVektoren.Core.VectorPosition}[],System.Tuple{VrVektoren.Core.Angle,System.Boolean}[])
+- uid: VrVektoren.Core.Step.#ctor(Tuple{VrVektoren.Core.Vector,VrVektoren.Core.VectorPosition}[],Tuple{VrVektoren.Core.Angle,System.Boolean}[])
   name: Step(Tuple<Vector, VectorPosition>[], Tuple<Angle, Boolean>[])
-  href: api/VrVektoren.Core.Step.html#VrVektoren_Core_Step__ctor_System_Tuple_VrVektoren_Core_Vector_VrVektoren_Core_VectorPosition____System_Tuple_VrVektoren_Core_Angle_System_Boolean____
-  commentId: M:VrVektoren.Core.Step.#ctor(System.Tuple{VrVektoren.Core.Vector,VrVektoren.Core.VectorPosition}[],System.Tuple{VrVektoren.Core.Angle,System.Boolean}[])
+  href: api/VrVektoren.Core.Step.html#VrVektoren_Core_Step__ctor_Tuple_VrVektoren_Core_Vector_VrVektoren_Core_VectorPosition____Tuple_VrVektoren_Core_Angle_System_Boolean____
+  commentId: M:VrVektoren.Core.Step.#ctor(Tuple{VrVektoren.Core.Vector,VrVektoren.Core.VectorPosition}[],Tuple{VrVektoren.Core.Angle,System.Boolean}[])
   name.vb: Step(Tuple(Of Vector, VectorPosition)(), Tuple(Of Angle, Boolean)())
-  fullName: VrVektoren.Core.Step.Step(System.Tuple<VrVektoren.Core.Vector, VrVektoren.Core.VectorPosition>[], System.Tuple<VrVektoren.Core.Angle, System.Boolean>[])
-  fullName.vb: VrVektoren.Core.Step.Step(System.Tuple(Of VrVektoren.Core.Vector, VrVektoren.Core.VectorPosition)(), System.Tuple(Of VrVektoren.Core.Angle, System.Boolean)())
+  fullName: VrVektoren.Core.Step.Step(Tuple<VrVektoren.Core.Vector, VrVektoren.Core.VectorPosition>[], Tuple<VrVektoren.Core.Angle, System.Boolean>[])
+  fullName.vb: VrVektoren.Core.Step.Step(Tuple(Of VrVektoren.Core.Vector, VrVektoren.Core.VectorPosition)(), Tuple(Of VrVektoren.Core.Angle, System.Boolean)())
   nameWithType: Step.Step(Tuple<Vector, VectorPosition>[], Tuple<Angle, Boolean>[])
   nameWithType.vb: Step.Step(Tuple(Of Vector, VectorPosition)(), Tuple(Of Angle, Boolean)())
 - uid: VrVektoren.Core.Step.#ctor*
@@ -1344,11 +1344,11 @@ references:
   isSpec: "True"
   fullName: VrVektoren.Services.SceneService.CurrentScene
   nameWithType: SceneService.CurrentScene
-- uid: VrVektoren.Services.SceneService.LogDebug(System.String)
+- uid: VrVektoren.Services.SceneService.LogDebug(String)
   name: LogDebug(String)
-  href: api/VrVektoren.Services.SceneService.html#VrVektoren_Services_SceneService_LogDebug_System_String_
-  commentId: M:VrVektoren.Services.SceneService.LogDebug(System.String)
-  fullName: VrVektoren.Services.SceneService.LogDebug(System.String)
+  href: api/VrVektoren.Services.SceneService.html#VrVektoren_Services_SceneService_LogDebug_String_
+  commentId: M:VrVektoren.Services.SceneService.LogDebug(String)
+  fullName: VrVektoren.Services.SceneService.LogDebug(String)
   nameWithType: SceneService.LogDebug(String)
 - uid: VrVektoren.Services.SceneService.LogDebug*
   name: LogDebug
@@ -1422,11 +1422,11 @@ references:
   isSpec: "True"
   fullName: VrVektoren.Services.SceneService.SceneSelection
   nameWithType: SceneService.SceneSelection
-- uid: VrVektoren.Services.SceneService.TryOpenVectorVisualizer(System.String)
+- uid: VrVektoren.Services.SceneService.TryOpenVectorVisualizer(String)
   name: TryOpenVectorVisualizer(String)
-  href: api/VrVektoren.Services.SceneService.html#VrVektoren_Services_SceneService_TryOpenVectorVisualizer_System_String_
-  commentId: M:VrVektoren.Services.SceneService.TryOpenVectorVisualizer(System.String)
-  fullName: VrVektoren.Services.SceneService.TryOpenVectorVisualizer(System.String)
+  href: api/VrVektoren.Services.SceneService.html#VrVektoren_Services_SceneService_TryOpenVectorVisualizer_String_
+  commentId: M:VrVektoren.Services.SceneService.TryOpenVectorVisualizer(String)
+  fullName: VrVektoren.Services.SceneService.TryOpenVectorVisualizer(String)
   nameWithType: SceneService.TryOpenVectorVisualizer(String)
 - uid: VrVektoren.Services.SceneService.TryOpenVectorVisualizer*
   name: TryOpenVectorVisualizer
@@ -1524,11 +1524,11 @@ references:
   commentId: T:VrVektoren.Utilities.Guard
   fullName: VrVektoren.Utilities.Guard
   nameWithType: Guard
-- uid: VrVektoren.Utilities.Guard.IsFalse(System.Boolean)
+- uid: VrVektoren.Utilities.Guard.IsFalse(Boolean)
   name: IsFalse(Boolean)
-  href: api/VrVektoren.Utilities.Guard.html#VrVektoren_Utilities_Guard_IsFalse_System_Boolean_
-  commentId: M:VrVektoren.Utilities.Guard.IsFalse(System.Boolean)
-  fullName: VrVektoren.Utilities.Guard.IsFalse(System.Boolean)
+  href: api/VrVektoren.Utilities.Guard.html#VrVektoren_Utilities_Guard_IsFalse_Boolean_
+  commentId: M:VrVektoren.Utilities.Guard.IsFalse(Boolean)
+  fullName: VrVektoren.Utilities.Guard.IsFalse(Boolean)
   nameWithType: Guard.IsFalse(Boolean)
 - uid: VrVektoren.Utilities.Guard.IsFalse*
   name: IsFalse
@@ -1553,11 +1553,11 @@ references:
   fullName.vb: VrVektoren.Utilities.Guard.IsNotNull(Of T)(T)
   nameWithType: Guard.IsNotNull<T>(T)
   nameWithType.vb: Guard.IsNotNull(Of T)(T)
-- uid: VrVektoren.Utilities.Guard.IsTrue(System.Boolean)
+- uid: VrVektoren.Utilities.Guard.IsTrue(Boolean)
   name: IsTrue(Boolean)
-  href: api/VrVektoren.Utilities.Guard.html#VrVektoren_Utilities_Guard_IsTrue_System_Boolean_
-  commentId: M:VrVektoren.Utilities.Guard.IsTrue(System.Boolean)
-  fullName: VrVektoren.Utilities.Guard.IsTrue(System.Boolean)
+  href: api/VrVektoren.Utilities.Guard.html#VrVektoren_Utilities_Guard_IsTrue_Boolean_
+  commentId: M:VrVektoren.Utilities.Guard.IsTrue(Boolean)
+  fullName: VrVektoren.Utilities.Guard.IsTrue(Boolean)
   nameWithType: Guard.IsTrue(Boolean)
 - uid: VrVektoren.Utilities.Guard.IsTrue*
   name: IsTrue
